@@ -1,4 +1,4 @@
-mappings
-========
+h1. Mapping files
+
 
 Mapping files for legacy encodings to Uniocde
