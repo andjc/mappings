@@ -1,0 +1,144 @@
+﻿; This file was created by <author> using TECkitMappingEditorU.exe v3.1.0.0 on 14/03/2014.
+;   Conversion Type = Legacy_to_from_Unicode
+;   Left-hand side font = Karen New;14.25
+;   Right-hand side font = Padauk;11.25
+;   Main Window Position = 727,28,658,712
+;   Left-hand side Character Map Window Position = 1335,0,527,446
+;   Right-hand side Character Map Window Position = 993,453,869,625
+
+EncodingName            "KarenNew2Uni"
+DescriptiveName         "Karen New to Unicode"
+Version                 "1"
+Contact                 "mailto:lang.support@gmail.com"
+RegistrationAuthority   "SLV"
+RegistrationName        "the name and version of the mapping, as recognized by that authority"
+Copyright               "© 2014 SLV. All rights reserved."
+LHSFlags                ()
+RHSFlags                ()
+
+pass(Byte_Unicode)
+
+; type a 'k' in the 'Left-side Sample' box below to see how this works.
+;107     <>  LATIN_SMALL_LETTER_N    ; 'k' <> 'n'
+
+32  <>  U+0020
+33  <>  U+0021
+34  <>  U+0022
+35  <>  U+0023
+36  <>  U+0024
+37  <>  U+0025
+38  <>  U+0026
+39  <>  U+0027
+40  <>  U+0028
+41  <>  U+0029
+42  <>  U+002A
+43  <>  U+002B
+44  <>  U+002C
+45  <>  U+002D
+46  <>  U+002E
+47  <>  U+103C
+48  <>  U+1040
+49  <>  U+1041
+50  <>  U+1042
+51  <>  U+1043
+52  <>  U+1044
+53  <>  U+1045
+54  <>  U+1046
+55  <>  U+1047
+56  <>  U+1048
+57  <>  U+1049
+58  <>  U+003A
+59  <>  U+003B
+60  <>  U+003C
+61  <>  U+003D
+62  <>  U+003E
+63  <>  U+103C
+;64 > 
+65  <>  U+1037
+66  <>  U+1064
+67  <>  U+104B
+68  <>  U+103A
+69  <>  U+1036
+70  <>  U+1063 U+103A
+;71  <>  
+72  <>  U+101E
+73  <>  U+1062 U+103A
+74  <>  U+103E
+75  <>  U+1001
+76  <>  U+103B
+77  <>  U+1061 U+1030
+78  <>  U+1014
+79  <>  U+102D
+80  <>  U+1016
+81  <>  U+100A
+82  <>  U+1038
+83  <>  U+1005
+84  <>  U+1011
+85  <>  U+102F
+86  <>  U+1030
+87  <>  U+103D
+88  <>  U+1027
+89  <>  U+1060
+90  <>  U+1007
+91  <>  U+005B
+92  <>  U+103C
+93  <>  U+005D
+;94  <>  
+;95  <>  
+96  <>  U+1037
+97  <>  U+102B
+98  <>  U+1018
+99  <>  U+1003
+100  <>  U+1012
+101  <>  U+1032
+102  <>  U+102C U+103A
+103  <>  U+1004
+104  <>  U+101F
+105  <>  U+1062
+;106  <>  
+107  <>  U+1000
+108  <>  U+101C
+109  <>  U+1019
+110  <>  U+1014
+111  <>  U+102E
+112  <>  U+1015
+113  <>  U+100A
+;114 74  <>  U+1061
+115  <>  U+1006
+116  <>  U+1010
+117  <>  U+102F
+118  <>  U+1030
+119  <>  U+101D
+120  <>  U+1021
+121  <>  U+101A
+122  <>  U+1061
+123  <>  U+007B
+124  <>  U+103C
+125  <>  U+007D
+126  <>  U+1037
+;127
+;128
+;129
+;130
+;131
+;132
+;133
+;134
+;135
+;136
+;137
+;138
+;139
+;140
+;141
+;142
+;143
+;144
+145  <>  U+2018
+146  <>  U+2019
+147  <>  U+201C
+148  <>  U+201D
+;164
+;182
+;183
+
